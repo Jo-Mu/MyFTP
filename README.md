@@ -18,8 +18,8 @@ delete - Delete the file "remote-file" from the remote server
 
 quit - disconnects from the remote server and quits the FTP client
 
-# Compilation Instructions
+# Compilation and Running Instructions
 
 javac myftp.java myftpclient.java
 
-java myftp
+java myftp [remote-server-address]
