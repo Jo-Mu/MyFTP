@@ -20,6 +20,6 @@ quit - disconnects from the remote server and quits the FTP client
 
 # Compilation Instructions
 
-javac Myftp.java MyFTPClient.java
+javac myftp.java myftpclient.java
 
-java Myftp
+java myftp
